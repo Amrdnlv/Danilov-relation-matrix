@@ -7,7 +7,7 @@ namespace Бикташев
         static void Main(string[] args)
         {
             int[] matr = new int[16];
-            Console.WriteLine("Данилов Роман Игоревич 2");
+            Console.WriteLine("Данилов Роман Игоревич");
             Console.WriteLine("---------------------------------------------");
 
             Console.WriteLine("Введите: '1' если использовать матрицу 2 Вариант " +
